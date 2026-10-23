@@ -1,0 +1,1 @@
+- [PHPで並行処理をやってみよう！「Phluxor」で学ぶアクターモデル入門](https://codezine.jp/article/detail/20281)

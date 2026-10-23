@@ -1,0 +1,11 @@
+{
+    "require": {
+        "phluxor/phluxor": "^0.1.9"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true,
+            "tbachert/spi": true
+        }
+    }
+}
